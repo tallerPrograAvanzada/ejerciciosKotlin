@@ -4,5 +4,5 @@ fun main(args: Array<String>) {
     println("Hello, World!")
     println("Nuevo cambio")
     println("Version Development")
-    println("Yo la edité")
+    println("Modificación hecha por alguien remoto")
 }
