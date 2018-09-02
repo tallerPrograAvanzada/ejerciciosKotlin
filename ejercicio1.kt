@@ -9,5 +9,5 @@ fun main(args: Array<String>) {
     println("Ago. 2018- Dic. 2018")
     println(":) otro")
     println("n.n")
-    println(":D")
+    println(":C")
 }
