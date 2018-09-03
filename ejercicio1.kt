@@ -5,5 +5,5 @@ fun main(args: Array<String>) {
     println("Nuevo cambio")
     println("Version Development")
     println("Taller de Programación Avanzada")
-    println("Holi, profe")
+    println("Holi, profe de parte del Mau")
 }
