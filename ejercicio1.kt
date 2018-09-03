@@ -10,10 +10,14 @@ fun main(args: Array<String>) {
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+    println("gg")
+=======
+<<<<<<< HEAD
     println("Nathaly N.")
 =======
     println("Holi, profe de parte del Mau")
 >>>>>>> 30493a149bf11ce765e89ef98f44c913bd9701a9
+>>>>>>> 0fe4353486b88805562c26c1d4326af59fac67b7
 =======
     println("Holi, profe")
     println("Ago. 2018- Dic. 2018")
@@ -26,8 +30,15 @@ fun main(args: Array<String>) {
 <<<<<<< HEAD
 >>>>>>> 0140c1ce3bd8fa980ee07d35cce994a406b86677
 =======
+<<<<<<< HEAD
+>>>>>>> 0140c1ce3bd8fa980ee07d35cce994a406b86677
+=======
     println("Nel")
     println("Eating sugar?")
 >>>>>>> 30493a149bf11ce765e89ef98f44c913bd9701a9
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
+>>>>>>> 0fe4353486b88805562c26c1d4326af59fac67b7
 >>>>>>> upstream/master
 }
